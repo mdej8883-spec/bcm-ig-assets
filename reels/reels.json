@@ -1,77 +1,37 @@
 {
- "updated": "2026-09-21 20:08",
+ "updated": "2026-09-21 21:22",
  "reels": [
   {
-   "id": "c8-chris-vo",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-chris-vo.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-chris-vo.jpg",
+   "id": "c8-best-rarely-wins-chris",
+   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-best-rarely-wins-chris.mp4",
+   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-best-rarely-wins-chris.jpg",
    "caption": "You can be the best in the trade and still lose the job to a worse company with a clearer page. Slide 7 is the fix, and it is one afternoon.",
    "hashtags": "",
-   "music": "Voiceover by Chris is already in it. Optional: add a soft background track at low volume in the app."
+   "music": "Chris voiceover is already in it. Optional: add a soft background track at low volume in the app."
   },
   {
-   "id": "c8-best-rarely-wins",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-best-rarely-wins.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-best-rarely-wins.jpg",
-   "caption": "You can be the best in the trade and still lose the job to a worse company with a clearer page. Slide 7 is the fix, and it is one afternoon.",
-   "hashtags": "",
-   "music": "Upbeat, confident business/hip-hop beat"
-  },
-  {
-   "id": "c9-top-of-google",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c9-top-of-google.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c9-top-of-google.jpg",
+   "id": "c9-top-of-google-chris",
+   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c9-top-of-google-chris.mp4",
+   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c9-top-of-google-chris.jpg",
    "caption": "Three businesses get most of the calls, and it is not the three that do the best work. Slide 6 is what to change this week.",
    "hashtags": "",
-   "music": "Clean corporate motivational track"
+   "music": "Chris voiceover is already in it. Optional: add a soft background track at low volume in the app."
   },
   {
-   "id": "c10-40-sites",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c10-40-sites.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c10-40-sites.jpg",
+   "id": "c10-40-sites-chris",
+   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c10-40-sites-chris.mp4",
+   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c10-40-sites-chris.jpg",
    "caption": "I looked at 60 local businesses this week and kept seeing the same three mistakes. Slide 6 is the check you can run in five minutes.",
    "hashtags": "",
-   "music": "Punchy trending pop, high energy"
+   "music": "Chris voiceover is already in it. Optional: add a soft background track at low volume in the app."
   },
   {
-   "id": "c11-one-line",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c11-one-line.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c11-one-line.jpg",
+   "id": "c11-one-line-chris",
+   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c11-one-line-chris.mp4",
+   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c11-one-line-chris.jpg",
    "caption": "One line on your homepage decides if a stranger ever finds you, and most owners never touch it. Slide 4 is what it should say.",
    "hashtags": "",
-   "music": "Chill confident lo-fi with a beat"
-  },
-  {
-   "id": "c12-reviews-wrong-page",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c12-reviews-wrong-page.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c12-reviews-wrong-page.jpg",
-   "caption": "Your reviews are winning you nothing if they only live on Google. Slide 4 is where they actually change a mind.",
-   "hashtags": "",
-   "music": "Bold cinematic build up"
-  },
-  {
-   "id": "c13-almost-called",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c13-almost-called.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c13-almost-called.jpg",
-   "caption": "I picked a contractor in under a minute and never saw the work of the one I skipped. Slide 5 is why that is you too.",
-   "hashtags": "",
-   "music": "Upbeat, confident business/hip-hop beat"
-  },
-  {
-   "id": "c14-clicks-you-lose",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c14-clicks-you-lose.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c14-clicks-you-lose.jpg",
-   "caption": "The ad is rarely the problem. The page you send the click to is. Slide 3 is the math most owners never run.",
-   "hashtags": "",
-   "music": "Clean corporate motivational track"
-  },
-  {
-   "id": "c15-stop-posting-more",
-   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c15-stop-posting-more.mp4",
-   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c15-stop-posting-more.jpg",
-   "caption": "More posts will not save a profile that does not say what you do or where you go next. Slide 5 is the order that works.",
-   "hashtags": "",
-   "music": "Punchy trending pop, high energy"
+   "music": "Chris voiceover is already in it. Optional: add a soft background track at low volume in the app."
   }
  ]
 }
