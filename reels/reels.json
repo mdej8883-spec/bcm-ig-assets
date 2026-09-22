@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-21 19:27",
+ "updated": "2026-09-21 20:08",
  "reels": [
+  {
+   "id": "c8-chris-vo",
+   "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-chris-vo.mp4",
+   "poster": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-chris-vo.jpg",
+   "caption": "You can be the best in the trade and still lose the job to a worse company with a clearer page. Slide 7 is the fix, and it is one afternoon.",
+   "hashtags": "",
+   "music": "Voiceover by Chris is already in it. Optional: add a soft background track at low volume in the app."
+  },
   {
    "id": "c8-best-rarely-wins",
    "video": "https://mdej8883-spec.github.io/bcm-ig-assets/reels/c8-best-rarely-wins.mp4",
